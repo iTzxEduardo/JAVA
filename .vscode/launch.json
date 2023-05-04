@@ -1,0 +1,105 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "InteracaoFor.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "ExercicioWhile.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "AtividadeEmGrupo.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "ProvaJava1.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "VetoresArrays.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "EstruturaDecisaoSwitch.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "ExercicioIfElse.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AloMundo",
+            "request": "launch",
+            "mainClass": "AloMundo.AloMundo",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "CalculadoraDescontos.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(1)",
+            "request": "launch",
+            "mainClass": "CalcularNota.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch VelociadadeMeia",
+            "request": "launch",
+            "mainClass": "CalcularVelocidadeMedia.VelociadadeMeia",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(2)",
+            "request": "launch",
+            "mainClass": "EstruturaDecisaoIF.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(3)",
+            "request": "launch",
+            "mainClass": "Operadores.App",
+            "projectName": "Java_b94f65ce"
+        }
+    ]
+}
