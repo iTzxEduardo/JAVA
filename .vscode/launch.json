@@ -8,6 +8,20 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "AtividadeFormativa.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "Matriz.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "InteracaoFor.App",
             "projectName": "Java_b94f65ce"
         },
