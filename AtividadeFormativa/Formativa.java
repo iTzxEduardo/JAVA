@@ -88,12 +88,18 @@ public class Formativa {
         int vetor[]=new int[tVetor];
         for (int i = 0; i < vetor.length; i++) {
             vetor[i]=rd.nextInt(100)+1;
-            if (vetor[i] % 2 == 0) {
-               vetor[i]=nPar;i++;
-               System.out.println(nPar);
-            } 
+            
         
         }
-     
+     for (int i = 0; i < vetor.length; i++) {
+        if (vetor[i]%2==0){
+            System.out.println("numetos pares "+vetor[i]);
+            for (int j = 0; j < vetor.length; i++) {
+                if (vetor[j]%1==0){
+                    System.out.println("numetos impares "+vetor[j]);
+                }
+        }
+        
+     }
     }
-}
+}}
