@@ -71,7 +71,7 @@ public class MatrizExemplo {
 
             }
             System.out.println("|");
-            fori
+        
         }
     }
 

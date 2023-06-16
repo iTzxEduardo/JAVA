@@ -8,6 +8,48 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "Sa2ProjetoBanco.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "POOExercicio3.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "POOInterfaceExercicio2.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "POOInterfaceExercicio.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "POOInterface.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "POOHeranca.App",
+            "projectName": "Java_b94f65ce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "AtividadeFormativa.App",
             "projectName": "Java_b94f65ce"
         },
