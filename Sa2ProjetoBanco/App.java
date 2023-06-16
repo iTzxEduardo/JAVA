@@ -46,12 +46,12 @@ public class App {
                         contasPj[contPJ].setnCnpj(JOptionPane.showInputDialog("Informe o CNPJ:"));
                         contasPj[contPJ].setSaldo(0);
                         contasPj[contPJ].setnConta(2000 + contPJ);
-                        JOptionPane.showMessageDialog(null, "Conta criada com Sucesso!");
+                        JOptionPane.showMessageDialog(null, "Sua conta criada com Sucesso!");
                         contPJ++;
                         novaConta = false;
 
                     } else {
-                        JOptionPane.showMessageDialog(null, "Insira uma opção válida.");
+                        JOptionPane.showMessageDialog(null, "Escolha  uma opção válida.");
                     }
                 }
 
@@ -60,7 +60,7 @@ public class App {
                 while (entrarConta) {
                     int acessarConta = Integer.parseInt(
                             JOptionPane.showInputDialog(
-                                    "Escolha qual tipo de conta deseja acessar"
+                                    "Qual conta deseja acessar"
                                             + "\n 1 - Conta Pessoa Fisica"
                                             + "\n 2 - Conta Pessoa Juridica"));
 
@@ -98,7 +98,7 @@ public class App {
                         }
                     } else if (acessarConta == 2) {
                         int nContaBuscaPF = Integer
-                                .parseInt(JOptionPane.showInputDialog("Informe o nº da conta buscada:"));
+                                .parseInt(JOptionPane.showInputDialog("Informe o nº da sua conta:"));
                         int i = 0;
                         while (nContaBuscaPF != contasPf[i].getnConta()) {
                             contaAtualPF = i;
@@ -112,7 +112,7 @@ public class App {
                                     + "\n 2 - Saque."
                                     + "\n 3 - Depósito."
                                     + "\n 4 - Empréstimo."
-                                    + "\n 5 - Sair da conta."));
+                                    + "\n 5 - Sair."));
                             if (acao3 == 1) {
                                 JOptionPane.showMessageDialog(null, "Saldo: " + contasPj[contaAtualPJ].getSaldo());
                             } else if (acao3 == 2) {
@@ -132,7 +132,7 @@ public class App {
                     }
                 }
             } else if (acao == 3) {
-                JOptionPane.showMessageDialog(null, "Operação Finalizada!");
+                JOptionPane.showMessageDialog(null, "Ação Concruida!");
                 aberta = false;
             } else {
                 JOptionPane.showMessageDialog(null, "Insira uma opção válida.");
