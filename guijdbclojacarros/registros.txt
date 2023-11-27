@@ -1,0 +1,20 @@
+Carro da placa : s Cadastrado com Sucesso.
+Carro da placa : s Atualizado com Sucesso.
+Carro da placa : s Apagado do Banco com Sucesso.
+Carro da placa : du Cadastrado com Sucesso.
+Carro da placa : du Apagado do Banco com Sucesso.
+Carro da placa : i Cadastrado com Sucesso.
+Carro da placa :  Atualizado com Sucesso.
+Carro da placa : i Atualizado com Sucesso.
+Carro da placa :  Atualizado com Sucesso.
+Carro da placa :  Atualizado com Sucesso.
+Carro da placa :  Atualizado com Sucesso.
+Carro da placa : i Atualizado com Sucesso.
+Carro da placa : i Atualizado com Sucesso.
+Carro da placa : 44 Atualizado com Sucesso.
+Carro da placa : i Apagado do Banco com Sucesso.
+Carro da placa : s Cadastrado com Sucesso.
+Carro da placa :  Atualizado com Sucesso.
+Carro da placa : s Atualizado com Sucesso.
+Carro da placa : s Atualizado com Sucesso.
+Carro da placa : S Atualizado com Sucesso.
